@@ -1,4 +1,14 @@
-## Hi there 👋
+## Oi! Me chamo Gustavo e sou um estudante de Ciência da Computação e Programação.
+
+❤️ Amo tecnologia, esportes e música, mangás e universos fantásticos!
+🎓 Estou cursando bacharelado em Ciência da Computação na UNISINOS.
+✏️ Estou estudando para me tornar um desenvolvedor Full Stack.
+
+Front-end — Bootstrap, React e Next.js
+Back-end — Node.js, Prisma, MongoDB
+
+
+
 
 <!--
 **gustabarros/gustabarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
